@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "gruntgaming idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "gruntgaming Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "gruntgaming Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "gruntgaming Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "gruntgaming Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/gruntgaming",
+	"position": [
+		-80,
+		60
+	],
+	"healthicon": "gruntgaming",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		48,
+		48
+	],
+	"camera_position": [
+		-60,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

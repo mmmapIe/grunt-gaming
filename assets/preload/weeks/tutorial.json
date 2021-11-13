@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"gaming",
+			"gruntgaming",
+			[
+				255,
+				48,
+				48
+			]
+		],
+		[
+			"rage-quit",
+			"gruntgamingispissed",
+			[
+				255,
+				48,
+				48
+			]
+		],
+		[
+			"Exploits",
+			"gruntgamingisgod",
+			[
+				255,
+				48,
+				48
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "gaming1",
+	"weekCharacters": [
+		"menugaming",
+		"bf",
+		"gf"
+	],
+	"storyName": "grunt gaming gets his house broken into at 3am",
+	"weekName": "gaming1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.3,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				110,
+				30
+			],
+			"idle_offsets": [
+				109,
+				29
+			],
+			"loop_name": "grunt Portrait Enter instance 10008",
+			"idle_name": "grunt Portrait Enter instance 10008"
+		}
+	],
+	"image": "gruntfPortrait"
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "gruntgamingisgod idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "gruntgamingisgod Left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "gruntgamingisgod Up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "gruntgamingisgod Down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "gruntgamingisgod Right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/gruntgamingisgod",
+	"position": [
+		-130,
+		60
+	],
+	"healthicon": "gruntgamingisgod",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		48,
+		48
+	],
+	"camera_position": [
+		-70,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

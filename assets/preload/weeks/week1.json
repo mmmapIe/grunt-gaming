@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"break-in",
+			"gruntgamingisgod",
+			[
+				255,
+				48,
+				48
+			]
+		],
+		[
+			"modded",
+			"gruntgamingisgod",
+			[
+				255,
+				48,
+				48
+			]
+		],
+		[
+			"sv-cheats-1",
+			"gruntgamingisgod",
+			[
+				255,
+				48,
+				48
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "gaming2",
+	"weekCharacters": [
+		"menugaming",
+		"bf",
+		"gf"
+	],
+	"storyName": "grunt gaming gets his revenge at 6am",
+	"weekName": "gaming2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

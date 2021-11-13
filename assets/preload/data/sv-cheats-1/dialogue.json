@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gamer",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "leave"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "rule of 3 you cant quit yet"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gamer",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "im not doing a 3rd song"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you have to"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gamer",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "nah"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fuck you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gamer",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "stop swearing im gonna get demonitized"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you have a absent father figure"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gamer",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "MY DAD DIDNT LEAVE ME SHUT UP"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gamer",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "JUST FUCKING DIE"
+		}
+	]
+}

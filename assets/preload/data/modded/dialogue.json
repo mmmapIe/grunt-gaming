@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gamer",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "alright bud this is getting out of hand "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gamer",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you break into my house, make me lose my gameplay footage, then make this a week 2"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "looks like you couldnt handle the neutron style "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gamer",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "this is serious buisness dumbass"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "you built like this ritz cracker box except stupid as shit"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gamer",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		}
+	]
+}

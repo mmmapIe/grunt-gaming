@@ -1,0 +1,17 @@
+[178[ [179[ [223[ [216[ |jeblol| *100* =1= #classic#  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~
+:gruntgamingangry: !default! [Funkin[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      get out of my house
+:bf: !default! [Funkin[ ]65] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      only if you beat me in a rap battle
+:gruntgaming: !default! [Funkin[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      what
+:gruntgaming: !default! [Funkin[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      no
+:bf: !default! [Funkin[ ]65] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      yes
+:gruntgaming: !default! [Funkin[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      no
+:bf: !default! [Funkin[ ]65] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      yes
+:gruntgaming: !default! [Funkin[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      no
+:bf: !default! [Funkin[ ]65] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      yes
+:gruntgaming: !default! [Funkin[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      no
+:bf: !default! [Funkin[ ]65] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      yes
+:gruntgaming: !default! [Funkin[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      no
+:bf: !default! [Funkin[ ]65] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      yes
+:gruntgaming: !default! [Funkin[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      no
+:bf: !default! [Funkin[ ]65] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      yes
+:gruntgaming: !default! [Funkin[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      ok fine
